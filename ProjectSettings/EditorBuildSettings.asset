@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/biniru.unity
+    guid: 24b3d085b116ae24395407b6a7ea4087
+  - enabled: 1
+    path: Assets/Scenes/biniru_ie.unity
+    guid: 757d039a2e66ae540aee464a9da656b0
+  - enabled: 1
+    path: Assets/Scenes/ie.unity
+    guid: 536e1324d01fa274fa67ea675012fcc7
+  - enabled: 1
+    path: Assets/Scenes/baketu.unity
+    guid: ffac1c030f1b480499a9340d172b29e1
+  - enabled: 1
+    path: Assets/Scenes/anten.unity
+    guid: 7047d80972263c641b40317af582ea06
+  - enabled: 1
+    path: Assets/Scenes/si_esa_agenasasugi.unity
+    guid: ae27b32b3fe89f848a12ae2d2f3d70c4
+  - enabled: 1
+    path: Assets/Scenes/si_esa_yarisugi.unity
+    guid: 84e5fd464b90f5a49ae4696522009943
+  - enabled: 1
+    path: Assets/Scenes/si_baketu_taoreta.unity
+    guid: 7a06b1bc5b1b0374aa2af00cea970a07
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 2ba58af5b9519e944b7e32bbbdf72ca6
+  m_configObjects: {}
